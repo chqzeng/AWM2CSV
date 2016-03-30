@@ -3,7 +3,7 @@ This is a project to convert DJI flight log file (waypoints) from its AWM (xml) 
 
 Please download and run the .exe file under commandline mode under Windows platform, and use the ```test.awm``` and ```test.csv``` in the directory for test purpose.  
 
-Author: Chuiqing Zeng; Carleton Unversity; Ottawa, Canada; chzeng@gmail.com
+Author: [Chuiqing Zeng](http://chuizeng.ca); Carleton Unversity; Ottawa, Canada; chzeng@gmail.com
 
 Usage: ```AWM2CSV -i input_file_path [-o output_file_path] [-r true/false] [-h]```  
 
