@@ -1,5 +1,5 @@
 # AWM2CSV
-This is a project to convert DJI flight log file (waypoints) from its AWM (xml) format to a readable format(csv table); It also provides the function to inversely import coordinates from other software(e.g. GoogleEarth) to an AWM file, in order to better plan the flight in advance.  
+This is a project to convert/export DJI flight/Wookong log file (waypoints) from its AWM (xml) format to a readable format(csv table); It also provides the function to inversely import coordinates from other software(e.g. GoogleEarth kmz/kml) to create an AWM file, in order to better plan the flight in advance.  
 
 Please download and run the .exe file under commandline mode under Windows platform, and use the ```test.awm``` and ```test.csv``` in the directory for test purpose.  
 
