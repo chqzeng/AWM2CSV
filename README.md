@@ -5,7 +5,8 @@ Please download and run the .exe file under commandline mode under Windows platf
 
 Author: Chuiqing Zeng; Carleton Unversity; Ottawa, Canada; chzeng@gmail.com
 
-Usage: ```AWM2CSV -i input_file_path [-o output_file_path] [-r true/false] [-h]```
+Usage: ```AWM2CSV -i input_file_path [-o output_file_path] [-r true/false] [-h]```  
+
 Options:
 ```
   -i, --input=INPUT     The INPUT path of a DJI UAV flight log file (*.awm)
